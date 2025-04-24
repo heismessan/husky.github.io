@@ -9,4 +9,4 @@ Ici, tu découvriras des histoires inspirantes d'entrepreneurs partis de rien po
 
 ## Dernier article
 
-👉 [Elon Musk : de rien à géant](/2025/04/24/elon-musk.html)
+[Elon Musk : de rien à géant](/2025/04/24/elon-musk.md)
