@@ -1,3 +1,6 @@
+baseurl: "/husky.github.io"
+
 title: Mon Blog Inspirant
 description: Histoires de ceux qui ont commencé de zéro
 theme: minima
+
